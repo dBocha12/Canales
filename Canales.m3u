@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", CL3 Cablevision
+http://stream02.shockmedia.com.ar:1935/cl3cable/cl3cable/playlist.m3u8
