@@ -1,4 +1,4 @@
 #EXTM3U
 
-EXTINF:-1,Canales en vivo
+#EXTINF:-1,Canales en vivo
 m3u:https://raw.githubusercontent.com/dBocha12/Canales/main/Canales.m3u
